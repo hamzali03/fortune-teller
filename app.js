@@ -1,8 +1,7 @@
-// import functions and grab DOM elements
+const input = document.getElementById('question');
+const button = document.getElementById('ask-button');
 
-// let state
+const inputContainer = document.getElementById('inputs-container');
+const fortuneContainer = document.getElementById('fortune-container');
 
-// set event listeners 
-  // get user input
-  // use user input to update state 
-  // update DOM to reflect the new state
+button.addEventListener(type 'click'
